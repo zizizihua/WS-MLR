@@ -1,0 +1,6 @@
+__pycache__/
+checkpoint/
+exp/
+
+*.pth
+.DS_Store
